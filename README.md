@@ -32,4 +32,9 @@ node ./server/server.js
 -> localhost:3002/api 에서 확인 가능
 
 참고 링크
+
 https://velog.io/@ksy990628/ReactNodejs-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-%EC%88%98%EC%A0%95%EC%A4%91
+
+exporess 사용법보기 (공식)
+
+https://expressjs.com/ko/guide/routing.html
